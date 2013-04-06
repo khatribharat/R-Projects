@@ -2,6 +2,7 @@
 {
 library(e1071);
 library(foreign);
+print("Usage: <source.R> <data file> <output file>");
 try(dataFile <- scan(what = character(), nmax = 1), silent = FALSE);
 try(output <- scan(what = character(), nmax = 1), silent = FALSE);
 dataSet <- read.arff(dataFile);
