@@ -1,0 +1,60 @@
+"tested_negative" "tested_positive"
+"tested_negative" 150 39
+"tested_positive" 21 51
+
+Execution time: 0.0579999999990832 
+
+"tested_negative" "tested_positive"
+"tested_negative" 145 42
+"tested_positive" 22 52
+
+Execution time: 0.0590000000011059 
+
+"tested_negative" "tested_positive"
+"tested_negative" 157 48
+"tested_positive" 11 45
+
+Execution time: 0.058999999999287 
+
+"tested_negative" "tested_positive"
+"tested_negative" 155 39
+"tested_positive" 18 49
+
+Execution time: 0.0579999999990832 
+
+"tested_negative" "tested_positive"
+"tested_negative" 152 40
+"tested_positive" 15 54
+
+Execution time: 0.0590000000011059 
+
+"tested_negative" "tested_positive"
+"tested_negative" 150 41
+"tested_positive" 20 50
+
+Execution time: 0.0579999999990832 
+
+"tested_negative" "tested_positive"
+"tested_negative" 146 49
+"tested_positive" 24 42
+
+Execution time: 0.0570000000006985 
+
+"tested_negative" "tested_positive"
+"tested_negative" 147 39
+"tested_positive" 23 52
+
+Execution time: 0.0580000000009022 
+
+"tested_negative" "tested_positive"
+"tested_negative" 147 41
+"tested_positive" 23 50
+
+Execution time: 0.0579999999990832 
+
+"tested_negative" "tested_positive"
+"tested_negative" 151 38
+"tested_positive" 12 60
+
+Execution time: 0.0590000000011059 
+

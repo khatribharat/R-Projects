@@ -2,10 +2,11 @@
 {
 	library(foreign);
 	library(mlogit);
+	print("Usage: <source.R> <data file> <output file>"); 
 	try(dataFile <-scan(what = character(), nmax = 1), silent = FALSE); # take the input data set
-	dataSet <- read.arff(dataFile);
-	try(file <-scan(what = character(), nmax = 1), silent = FALSE); # take the name of the output file.
+	try(outputFile <-scan(what = character(), nmax = 1), silent = FALSE); # take the name of the output file.
 	try(numTrials <-scan(what = integer(), nmax = 1), silent = FALSE); # the number of trials.
+	dataSet <- read.arff(dataFile);
 	precision <- 0;
 	recall <- 0;
 	fmeasure <- 0;
@@ -20,13 +21,10 @@
 		# convert the categorical outcome variable as factor levels.
 
 		mlogit.training <- mlogit.data(training, shape = "wide", choice = "class");
-		executionTime <- executionTime + system.time(mlogit.r <- mlogit(class ~ 0 | ., data = mlogit.training))[3];		
+		executionTime <- executionTime + system.time(mlogit.r <- mlogit(class ~ 0 | ., data = mlogit.training));		
 		# We need to make the predictions
-			
-
-		#executionTime <- executionTime + system.time(logit.r <- glm(class ~ ., family = binomial("logit"), data = training))[3];
-		#predictions <- predict(logit.r, test, type = "response");
-		#predictions <- round(predictions); 	# round the values.
+		prediction <- predict(mlogit.r, test[,-dim(test)[2]], type = "response");
+		prediction <- round(prediction); 	# round the values.
 
 		# We need to calculate Time Taken, Precision, Recall, F-Measure, ROC Area, Kappa Stat.
 		

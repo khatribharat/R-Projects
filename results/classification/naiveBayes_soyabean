@@ -1,0 +1,230 @@
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 31 0 1 0 1 0 0 0 0 0 0 7 0 1 0 0 0 0
+" anthracnose" 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 2 0 0 0 26 0 0 0 0 0 0 1 0 0 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 16 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 25 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 27 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0 10
+
+Execution Time: 0.0290000000004511 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 31 0 1 0 1 0 0 0 0 0 0 5 0 2 0 0 0 0
+" anthracnose" 0 0 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 1 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 16 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 3 0 0 0 0 0 0 16 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 2 0 1 0 0 0 0 0 0 0 0 4 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 6
+
+Execution Time: 0.0290000000004511 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 26 0 2 0 1 0 0 0 0 0 0 7 0 0 0 0 0 0
+" anthracnose" 0 0 10 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 0 0 0 0 30 0 0 0 0 0 0 2 0 1 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 0 0 0 0 0 0 0 23 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 6 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 26 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 5
+
+Execution Time: 0.0289999999986321 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 29 0 0 0 2 0 0 0 0 0 0 5 0 1 0 0 0 0
+" anthracnose" 0 0 11 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 0 0 1 0 22 0 0 0 0 0 0 1 0 1 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 14 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 9 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 9 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 27 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 3 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0 7
+
+Execution Time: 0.0299999999988358 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 38 0 0 0 3 0 0 0 0 0 0 11 0 0 0 0 0 0
+" anthracnose" 0 0 16 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 1 0 0 0 23 0 0 0 0 0 0 1 0 2 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 25 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 4 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 22 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0 11
+
+Execution Time: 0.0290000000004511 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 37 0 1 0 5 0 0 0 0 0 0 10 0 1 0 0 0 0
+" anthracnose" 0 0 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 4 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 0 0 0 0 23 0 0 0 0 0 0 1 0 0 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 21 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 2 0 0 0 0 0 0 25 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 3 0 0 0 0 0 0 0 0 6 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 22 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 6
+
+Execution Time: 0.0289999999986321 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 34 0 0 0 2 0 0 0 0 0 0 13 0 3 0 0 0 0
+" anthracnose" 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 7 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 0 0 0 0 26 0 0 0 0 0 0 0 0 1 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 16 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 24 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 23 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 7
+
+Execution Time: 0.0300000000006548 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 31 0 0 0 4 0 0 0 0 0 0 10 0 2 0 0 0 0
+" anthracnose" 0 0 14 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 1 0 0 0 24 0 0 0 0 0 0 0 0 2 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 20 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 9 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 2 0 0 0 0 0 0 14 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 23 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 8
+
+Execution Time: 0.0300000000006548 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 28 0 1 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0
+" anthracnose" 0 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 1 0 0 0 31 0 0 0 0 0 0 1 0 1 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 12 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 2 0 0 0 0 0 0 21 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 5 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 31 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 5
+
+Execution Time: 0.0289999999986321 
+
+" 2-4-d-injury" " alternarialeaf-spot" " anthracnose" " bacterial-blight" " bacterial-pustule" " brown-spot" " brown-stem-rot" " charcoal-rot" " cyst-nematode" " diaporthe-pod-&-stem-blight" " diaporthe-stem-canker" " downy-mildew" " frog-eye-leaf-spot" " herbicide-injury" " phyllosticta-leaf-spot" " phytophthora-rot" " powdery-mildew" " purple-seed-stain" " rhizoctonia-root-rot"
+" 2-4-d-injury" 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" alternarialeaf-spot" 0 30 0 1 0 2 0 0 0 0 0 0 6 0 1 0 0 0 0
+" anthracnose" 0 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-blight" 0 0 0 7 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" bacterial-pustule" 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+" brown-spot" 0 0 0 0 0 31 0 0 0 0 0 0 2 0 1 0 0 0 0
+" brown-stem-rot" 0 0 0 0 0 0 12 0 0 0 0 0 0 0 0 0 0 0 0
+" charcoal-rot" 0 0 0 0 0 0 0 12 0 0 0 0 0 0 0 0 0 0 0
+" cyst-nematode" 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0
+" diaporthe-pod-&-stem-blight" 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0
+" diaporthe-stem-canker" 0 0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0
+" downy-mildew" 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+" frog-eye-leaf-spot" 0 0 0 0 0 1 0 0 0 0 0 0 15 0 0 0 0 0 0
+" herbicide-injury" 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0
+" phyllosticta-leaf-spot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0
+" phytophthora-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25 0 0 0
+" powdery-mildew" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 0 0
+" purple-seed-stain" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0
+" rhizoctonia-root-rot" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 9
+
+Execution Time: 0.0290000000004511 
+

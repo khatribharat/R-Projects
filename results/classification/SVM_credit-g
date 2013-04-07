@@ -1,0 +1,60 @@
+"bad" "good"
+"bad" 19 1
+"good" 87 233
+
+Execution time: 0.225000000000364 
+
+"bad" "good"
+"bad" 15 4
+"good" 87 234
+
+Execution time: 0.227000000000771 
+
+"bad" "good"
+"bad" 29 11
+"good" 67 233
+
+Execution time: 0.230999999999767 
+
+"bad" "good"
+"bad" 12 7
+"good" 94 227
+
+Execution time: 0.220999999999549 
+
+"bad" "good"
+"bad" 30 20
+"good" 69 221
+
+Execution time: 0.226999999998952 
+
+"bad" "good"
+"bad" 5 0
+"good" 112 223
+
+Execution time: 0.222999999999956 
+
+"bad" "good"
+"bad" 22 13
+"good" 81 224
+
+Execution time: 0.221000000001368 
+
+"bad" "good"
+"bad" 17 12
+"good" 77 234
+
+Execution time: 0.229000000001179 
+
+"bad" "good"
+"bad" 24 9
+"good" 86 221
+
+Execution time: 0.226999999998952 
+
+"bad" "good"
+"bad" 23 9
+"good" 79 229
+
+Execution time: 0.229999999999563 
+
